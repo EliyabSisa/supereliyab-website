@@ -1,0 +1,61 @@
+body {
+  background-color: antiquewhite;
+}
+h1 {
+background-color: rgba(255, 0, 0, 0.774);
+ border-radius: 20px;
+ color: whitesmoke;
+    font-size: 70px;
+    margin-left: 80px;
+}
+p {
+    font-size: 20px;
+    font-style: italic;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+h2,h4,a{
+    margin-left: 120px;
+}
+
+
+
+button {
+    background-color: rgba(169, 169, 169, 0.658);
+    width: 400px;
+    height: 35px;
+    color: grey;
+    padding: 0px;
+    text-align: left;
+    margin-top: 10px;
+    border: none;
+}
+#img-fb {
+    width: 20px;
+    height: 15px;
+}
+#img-lin {
+    width: 20px;
+    height: 15px;
+}
+#tele {
+    width: 20px;
+    height: 16px;
+}
+#git {
+    width: 20px;
+    height: 16px;
+}
+#eto {
+    margin-left: 120px;
+    margin-top: 5px;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+@media only screen and (max-width: 481px){
+    body{
+        background-color: antiquewhite;
+    }
+}
